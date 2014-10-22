@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-the TUtorial
+the tutorial
 
